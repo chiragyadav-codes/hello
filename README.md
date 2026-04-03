@@ -1,2 +1,2 @@
 #hello
-This is learning purpose for git beginner
+This is learning purpose for git beginner.
